@@ -1,0 +1,15 @@
+    .text-box {
+        background: #fff;
+        width: 150px;
+        height: 150px;
+        float: left;
+    }
+    
+    .text-drag-box {
+        border: solid 2px #ddd;
+    }
+
+    .textstyle {
+        outline: none;
+        border: none;
+    }

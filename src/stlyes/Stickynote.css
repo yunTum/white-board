@@ -1,0 +1,18 @@
+.drag-box {
+    background: #efcc4c;
+    width: 150px;
+    height: 20px;
+    cursor: move;
+  }
+
+  .cursor {
+    cursor: move;
+  }
+
+  .box {
+    position: 'absolute';
+    background: #fff;
+    width: 150px;
+    height: 150px;
+    float: left;
+  }
